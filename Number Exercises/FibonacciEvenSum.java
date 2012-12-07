@@ -16,7 +16,7 @@ public class FibonacciEvenSum
 		int[] FibonacciArray = new int[40];
 		int sum = 0;
 		
-		//first 2 terms are 1
+		//first 2 terms are 0 and 1
 		FibonacciArray[0] = 0;
 		FibonacciArray[1] = 1;
 		
