@@ -1,4 +1,4 @@
-package chapter3;
+package projectEuler;
 
 public class FibonacciEvenSum
 {
